@@ -1,0 +1,3918 @@
+[
+ [
+  "— Programming abstractions for on-device AI.",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "· Last run:",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "· Schedule:",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "· Still indexing…",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "\"Send from\"",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "(auto-refreshing)",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "(from template)",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "(never shown publicly)",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "(No instruction set — click Edit to add one)",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "(not installed)",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "(optional)",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "(Optional) Set the app icon: in the left sidebar click \"Basic Information\" → scroll to \"Display Information\" → upload the OpenJarvis logo",
+  "types/connectors.ts"
+ ],
+ [
+  "(recommended)",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "{} API key {}. Refreshing model list...",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "{} API token",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "{} items",
+  "components/setup/IngestDashboard.tsx"
+ ],
+ [
+  "{} loaded",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "{} stored locally",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "{} system panel ({}+I)",
+  "components/Chat/ChatArea.tsx"
+ ],
+ [
+  "{}ms",
+  "components/Chat/ToolCallCard.tsx"
+ ],
+ [
+  "@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }",
+  "components/Desktop/EnergyDashboard.tsx"
+ ],
+ [
+  "@keyframes tools-count-pulse { 0% { transform: scale(1); } 40% { transform: scale(1.18); } 100% { transform: scale(1); } } .tools-count { display: inline-block; animation: tools-count-pulse 220ms ease-out; }",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "*Savings estimates assume local models (e.g. Qwen, Nemotron, Kimi) produce roughly the same number of tokens per request, on average, as closed-source cloud models.",
+  "components/Dashboard/CostComparison.tsx"
+ ],
+ [
+  "% match",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "→ Privacy & Security → Full Disk Access → enable OpenJarvis",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "↺ Recover",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "+ Add",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "+ Launch",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "+/mo",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "+1XXXXXXXXXX",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "× Close",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "~/Documents/notes",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "⏸ Pause",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "▶ Resume",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "▶ Run Now",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "✕ Close",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "1 second",
+  "components/Desktop/SettingsPanel.tsx"
+ ],
+ [
+  "1. Sign up at sendblue.co →",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "10 seconds",
+  "components/Desktop/SettingsPanel.tsx"
+ ],
+ [
+  "2 seconds",
+  "components/Desktop/SettingsPanel.tsx"
+ ],
+ [
+  "2. Go to your API Credentials page →",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "30 seconds",
+  "components/Desktop/SettingsPanel.tsx"
+ ],
+ [
+  "5 seconds",
+  "components/Desktop/SettingsPanel.tsx"
+ ],
+ [
+  "60 seconds",
+  "components/Desktop/SettingsPanel.tsx"
+ ],
+ [
+  "8 GB+ RAM recommended",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "A dialog will show your Client ID and Client Secret. Copy both and paste them below, then click Connect — a Google sign-in window opens to finish authorization. (If you miss the dialog, click the download icon next to your OAuth client to see them again.)",
+  "types/connectors.ts"
+ ],
+ [
+  "About",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Access token (sl.u...)",
+  "types/connectors.ts"
+ ],
+ [
+  "Action:",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Activate Phone Number",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Active",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Active — text",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Active on",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Active on {}",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Activity Log",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Activity trace",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Add one RSS or Atom feed URL per line.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Add to Knowledge Base",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Add your API keys to use cloud models. Keys are stored in secure desktop storage.",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Adding...",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Admin Panel",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "Advanced Settings",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Advanced: Connect with Google OAuth",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Agent",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "Agent \"{}\" created",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Agent \"{}\" failed",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Agent \"{}\" failed: {}",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Agent approvals",
+  "components/ApprovalBell.tsx"
+ ],
+ [
+  "Agent Approvals",
+  "components/ApprovalBell.tsx"
+ ],
+ [
+  "Agent has no stored memory yet.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Agent is running…",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Agent is working…",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Agent manager is not enabled. Set",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Agent Name",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Agent Name *",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Agent name is required.",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Agent recovered from checkpoint",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Agent Registry",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "Agent Registry (",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "Agent reset to idle (no checkpoint available)",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Agent Statistics",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Agent Type",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "agent_manager.enabled = true",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Agents",
+  "components/Sidebar/Sidebar.tsx"
+ ],
+ [
+  "Agents (",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "AI meeting notes",
+  "types/connectors.ts"
+ ],
+ [
+  "AI Model",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "AI...",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "all",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "All sources configured",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "All systems running",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Allow local model setup?",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Already up to date",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Alternatively, open Finder → navigate to your vault folder (it contains a hidden .obsidian directory). Right-click the folder → \"Copy as Pathname\" to get the full path",
+  "types/connectors.ts"
+ ],
+ [
+  "An unexpected error occurred.",
+  "components/ErrorBoundary.tsx"
+ ],
+ [
+  "Analyzing query",
+  "components/Chat/ResearchTimeline.tsx"
+ ],
+ [
+  "and copy the API Key and API Secret.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Anthropic",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Any IMAP mailbox",
+  "types/connectors.ts"
+ ],
+ [
+  "API key",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "API Key",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "API key (optional)",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "API Key ID *",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "API Keys",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "API keys are stored locally and never sent to OpenJarvis servers",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "API Secret",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "API Secret Key *",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "API Server",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "API token.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "API URL",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "App password",
+  "types/connectors.ts"
+ ],
+ [
+  "App password (xxxx xxxx xxxx xxxx)",
+  "types/connectors.ts"
+ ],
+ [
+  "App preferences — appearance, model defaults, keyboard shortcuts, and data management.",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "App Token",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Appearance",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Application (client) ID",
+  "types/connectors.ts"
+ ],
+ [
+  "Approve",
+  "components/ApprovalBell.tsx"
+ ],
+ [
+  "are indexed",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Ask",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Ask a follow-up about this agent's work…",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Ask anything about your work and life.",
+  "components/setup/ReadyScreen.tsx"
+ ],
+ [
+  "Ask anything. Your AI runs locally — private, fast, and always available.",
+  "components/Chat/ChatArea.tsx"
+ ],
+ [
+  "Atlas Cloud",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Atlas Cloud API key",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Auto-refresh interval",
+  "components/Desktop/SettingsPanel.tsx"
+ ],
+ [
+  "Auto-update",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Automatically inject relevant memories into conversations",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Available",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Available ·",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Avg Power",
+  "components/Dashboard/EnergyDashboard.tsx"
+ ],
+ [
+  "Avg Power Draw",
+  "components/Desktop/EnergyDashboard.tsx"
+ ],
+ [
+  "awaiting first inference…",
+  "components/Dashboard/CostComparison.tsx"
+ ],
+ [
+  "awaiting telemetry stream…",
+  "components/Dashboard/EnergyDashboard.tsx"
+ ],
+ [
+  "Back",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Back to agents",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Backend",
+  "components/Desktop/MemoryBrowser.tsx"
+ ],
+ [
+  "Backend and voice used for spoken replies",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Backend status",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Bandit Arm Statistics",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "based on published API pricing tiers",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "BM25 (SQLite FTS5)",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Bot Token",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Browse",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Browser",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Browser App (Self-Hosted)",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Budget",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Budget ($, optional)",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Budget ($)",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Bundled Ollama (default)",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Calculator",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Calling {}({})",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Cancel",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Cannot connect to server",
+  "components/Dashboard/EnergyDashboard.tsx"
+ ],
+ [
+  "Cannot load traces",
+  "components/Dashboard/TraceDebugger.tsx"
+ ],
+ [
+  "Cannot reach OpenJarvis backend",
+  "components/Layout.tsx"
+ ],
+ [
+  "Causality Graph",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Change",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Change inference source",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Change URL",
+  "components/Layout.tsx"
+ ],
+ [
+  "channels:history • channels:read • groups:history • groups:read • im:history • im:read • mpim:history • mpim:read • users:read",
+  "types/connectors.ts"
+ ],
+ [
+  "Chat",
+  "components/Sidebar/Sidebar.tsx"
+ ],
+ [
+  "Chat ready — just type below",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Chat with agent",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Check Access",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "Check for new desktop builds automatically every 30 minutes",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Check for updates",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Check now",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Checking endpoint...",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "Checking server...",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Checking your saved setup...",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "Checking...",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Choose a template or start from scratch",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Choose how OpenJarvis looks",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Choose which data sources to include in your personal knowledge base.",
+  "components/setup/SourcePicker.tsx"
+ ],
+ [
+  "Choose your inference source",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Chunks",
+  "components/Desktop/MemoryBrowser.tsx"
+ ],
+ [
+  "City, country (for example: Boston,US)",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Claude Fable 5",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Claude models",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Cleaning up…",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Clear",
+  "pages/LogsPage.tsx"
+ ],
+ [
+  "Clear all data",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "CLI / Self-Hosted",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Click \"+ Launch\" to create one.",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Click \"Generate API Key\" (or copy your existing key). Paste the key below",
+  "types/connectors.ts"
+ ],
+ [
+  "Click again to confirm",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Click the \"+\" button at the bottom of the list. Navigate to Applications → Utilities → select \"Terminal.app\" (or iTerm2/Warp if you use those). If you're using the desktop app, also add \"OpenJarvis.app\" from Applications",
+  "types/connectors.ts"
+ ],
+ [
+  "Click the \"Permissions\" tab at the top. Check \"files.metadata.read\" and \"files.content.read\" → click \"Submit\" at the bottom to save",
+  "types/connectors.ts"
+ ],
+ [
+  "Client ID",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Client ID (e.g. 123456-abc.apps.googleusercontent.com)",
+  "types/connectors.ts"
+ ],
+ [
+  "Client Secret",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Client Secret Value",
+  "types/connectors.ts"
+ ],
+ [
+  "Clone and install (Python 3.10+ required):",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Close",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Close panel",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "Close sharing choices",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Cloud file storage",
+  "types/connectors.ts"
+ ],
+ [
+  "Cloud providers",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Cmd+I",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Cmd+K",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Cmd+N",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Code Interpreter",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "ColBERTv2",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Collapse",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Collapse search trace",
+  "components/Chat/ResearchTimeline.tsx"
+ ],
+ [
+  "Command Line (macOS / Linux)",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Communication",
+  "components/setup/SourcePicker.tsx"
+ ],
+ [
+  "Complexity",
+  "components/Chat/XRayFooter.tsx"
+ ],
+ [
+  "Compute",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Configuration",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Configure cloud provider keys in the server environment to use cloud models.",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Connect",
+  "components/Chat/ChatArea.tsx"
+ ],
+ [
+  "Connect {}",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "Connect {} source{}",
+  "components/setup/SourcePicker.tsx"
+ ],
+ [
+  "Connect a messaging channel so you can talk to your agent from your phone or other devices.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Connect Data Sources",
+  "components/Chat/ChatArea.tsx"
+ ],
+ [
+  "Connect personal data so the assistant can search across everything, and set up messaging channels to chat from your phone.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Connect to LM Studio, vLLM, SGLang, llama.cpp, MLX, or another compatible endpoint. Ollama stays off.",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Connect your {} account with one click.",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "Connect your data sources (Gmail, iMessage, Slack, etc.) to get personalized answers.",
+  "components/Chat/ChatArea.tsx"
+ ],
+ [
+  "Connect your personal data in the",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Connect your server",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Connect your sources",
+  "components/setup/SourcePicker.tsx"
+ ],
+ [
+  "Connected",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Connected — no data synced yet",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Connected — not synced yet",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Connected ·",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Connected {} source{}: {}.",
+  "components/setup/ReadyScreen.tsx"
+ ],
+ [
+  "Connecting to your AI server...",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "Connecting to your server...",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "Connecting...",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Connection",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Connection security",
+  "types/connectors.ts"
+ ],
+ [
+  "Continue →",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "Continue with {}",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Continue without sharing",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Conversations",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Cool",
+  "components/Dashboard/EnergyDashboard.tsx"
+ ],
+ [
+  "Copied",
+  "components/Chat/MessageBubble.tsx"
+ ],
+ [
+  "Copy",
+  "components/Chat/MessageBubble.tsx"
+ ],
+ [
+  "Copy All",
+  "pages/LogsPage.tsx"
+ ],
+ [
+  "Copy message",
+  "components/Chat/MessageBubble.tsx"
+ ],
+ [
+  "Copy the",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Copy the \"API Key\" and \"API Secret\" from the credentials page and paste them below.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Copy the \"Internal Integration Secret\" (starts with ntn_) and paste it below",
+  "types/connectors.ts"
+ ],
+ [
+  "Copy the phone number shown under",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Copy your \"Phone Number ID\" (shown on the API Setup page) and the access token. Paste them below separated by a colon — e.g. 123456789:EAABx...",
+  "types/connectors.ts"
+ ],
+ [
+  "Cost Comparison",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "Cost Comparison*",
+  "components/Dashboard/CostComparison.tsx"
+ ],
+ [
+  "Could not check model status",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Could not load analytics. You can retry saving your choice.",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Could not save your analytics choice.",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Could not save your sharing choice.",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Could not start the agent run.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Counters",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "CPU Temp",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "Create a SendBlue account",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Create OAuth credentials: go to Credentials (link below) → click \"+ Create Credentials\" → choose \"OAuth client ID\" → Application type: \"Web application\". Under \"Authorized redirect URIs\" add this server's callback (e.g. http://localhost:1313/v1/connectors/gdrive/oauth/callback — match the host/port your OpenJarvis server is bound to) → click \"Create\".",
+  "types/connectors.ts"
+ ],
+ [
+  "Create your first agent to get started with autonomous task management.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Created",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Created:",
+  "components/Desktop/TraceDebugger.tsx"
+ ],
+ [
+  "Creating...",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Credentials verified",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Cron",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Custom (cron expression)",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Custom (cron)",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Custom Agent",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Custom OpenAI-compatible server",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Daily",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Dark",
+  "components/Desktop/SettingsPanel.tsx"
+ ],
+ [
+  "Dashboard",
+  "components/Sidebar/Sidebar.tsx"
+ ],
+ [
+  "Data",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Data Sources",
+  "components/Sidebar/Sidebar.tsx"
+ ],
+ [
+  "Data sources your agent can search across",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Data Sources, Channels & Memory",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Deep Research",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Deep Research available now · results improve as more",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Deep Research error: {}",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Deep Research: off",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Deep Research: on",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Default",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Delete",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Delete agent",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Delete conversation",
+  "components/Sidebar/ConversationList.tsx"
+ ],
+ [
+  "Delete model",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Delete this agent? This cannot be undone.",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Deleted {}",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Deny",
+  "components/ApprovalBell.tsx"
+ ],
+ [
+  "Deploy with Docker Compose for a zero-setup hosted instance:",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Description",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "Desktop App",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Details",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Device",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "Disable analytics",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Disable auto-updates",
+  "components/Desktop/UpdateChecker.tsx"
+ ],
+ [
+  "Disabled",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Disconnect",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Disconnect failed",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Disconnect failed:",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Disconnect pending — waiting for the active sync to stop.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Disconnected",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Disconnected — {}",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Disconnecting…",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Discovered skills",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "Display name (public)",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Display name for leaderboard",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "DM your agent in any Slack workspace",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Docker (Cloud / VPS Deploy)",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Docs, Sheets, and files",
+  "types/connectors.ts"
+ ],
+ [
+  "Documentation",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Documents",
+  "components/Desktop/MemoryBrowser.tsx"
+ ],
+ [
+  "Dollars Saved vs.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Don't have ngrok?",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Done",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Download",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Download failed",
+  "components/Desktop/UpdateChecker.tsx"
+ ],
+ [
+  "Download failed for {}: {}",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Download for",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Download it free",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Downloaded",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Downloaded {}",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Downloading update...",
+  "components/Desktop/UpdateChecker.tsx"
+ ],
+ [
+  "Downloading...",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "e.g. AI Research Tracker",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "e.g. codellama:7b",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "e.g. LM Studio: http://localhost:1234/v1",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "e.g. Monitor the latest research papers on reasoning and chain-of-thought in LLMs",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "e.g. Research Assistant",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Edit",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Edit agent",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "electricity only",
+  "components/Dashboard/CostComparison.tsx"
+ ],
+ [
+  "Email",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Email (not displayed)",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Email messages and threads",
+  "types/connectors.ts"
+ ],
+ [
+  "Enable analytics",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Enable analytics & enter giveaway",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Enable analytics only",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Enable Learning",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Enable microphone input for voice dictation",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Enable the Google Calendar API: click the link below, select your project, then click \"Enable\"",
+  "types/connectors.ts"
+ ],
+ [
+  "Enable the Google Drive API: click the link below, make sure your project is selected at the top, then click \"Enable\"",
+  "types/connectors.ts"
+ ],
+ [
+  "Enable the People API: click the link below, select your project, then click \"Enable\"",
+  "types/connectors.ts"
+ ],
+ [
+  "Enabled",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Endpoint",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "Energy",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "Energy / Token",
+  "components/Dashboard/EnergyDashboard.tsx"
+ ],
+ [
+  "Energy Monitor",
+  "components/Desktop/EnergyDashboard.tsx"
+ ],
+ [
+  "Energy Monitoring",
+  "components/Dashboard/EnergyDashboard.tsx"
+ ],
+ [
+  "Energy per Token",
+  "components/Desktop/EnergyDashboard.tsx"
+ ],
+ [
+  "Engine",
+  "components/Chat/XRayFooter.tsx"
+ ],
+ [
+  "Ensure an energy monitor backend (NVIDIA, AMD, Apple, or RAPL) is configured.",
+  "components/Desktop/EnergyDashboard.tsx"
+ ],
+ [
+  "Enter",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Enter a query to search memory",
+  "components/Desktop/MemoryBrowser.tsx"
+ ],
+ [
+  "Enter giveaway only",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Enter the path to your local",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "Enter your",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Enter your phone number",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Error",
+  "components/setup/IngestDashboard.tsx"
+ ],
+ [
+  "Error:",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Esc",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Events and meetings",
+  "types/connectors.ts"
+ ],
+ [
+  "Every",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Every N hours",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Execution Traces",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Expand search trace",
+  "components/Chat/ResearchTimeline.tsx"
+ ],
+ [
+  "Export",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Failed to connect",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Failed to create agent",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Failed to create agent. Please try again.",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Failed to load {}: {}",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Failed to register webhook. Check your ngrok URL and SendBlue credentials.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Failed to register. Check your ngrok URL and try again.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Failed to remove API key",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Failed to save API key",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Failed to send message.",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Failed to start agent",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "File Read",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Find your vault path: open Obsidian → click the vault name in the bottom-left corner → \"Manage Vaults\" → look at the path shown under your vault name. On macOS this is usually ~/Documents/MyVault or ~/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault",
+  "types/connectors.ts"
+ ],
+ [
+  "Finish disconnect",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Font size",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "for details.",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "For developers with an existing Google Cloud project. Enable the Gmail API and create a Desktop OAuth client at",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "for new line",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "forwarding URL",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "forwarding URL (e.g. https://abc123.ngrok.io)",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "from any phone to talk to your agent. Responses arrive as iMessage (blue bubbles) when possible, SMS otherwise.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "GB)",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Gemini 3.1 Pro",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Gemini models",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Generate an app password with your email provider (IMAP must be enabled), then enter your email address and app password. Known providers are detected automatically; use the optional server settings for other providers.",
+  "types/connectors.ts"
+ ],
+ [
+  "Generating with {}...",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Get SendBlue API keys",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Get Started",
+  "components/Sidebar/Sidebar.tsx"
+ ],
+ [
+  "Go back to the \"Settings\" tab. Under \"OAuth 2\", find \"Generated access token\" and click \"Generate\". Copy the token and paste it below",
+  "types/connectors.ts"
+ ],
+ [
+  "Go to \"Overview\" in the left sidebar and copy the \"Application (client) ID\". Paste both the Client ID and the Client Secret below",
+  "types/connectors.ts"
+ ],
+ [
+  "Go to api.slack.com/apps and click \"Create New App\" → choose \"From scratch\". Name it \"OpenJarvis\" and pick your workspace",
+  "types/connectors.ts"
+ ],
+ [
+  "Go to Credentials → \"+ Create Credentials\" → \"OAuth client ID\" → Application type: \"Desktop app\" → \"Create\". Copy the Client ID and Client Secret",
+  "types/connectors.ts"
+ ],
+ [
+  "Go to Google Cloud Console → create a new project (or select an existing one). Give it any name (e.g. \"OpenJarvis\")",
+  "types/connectors.ts"
+ ],
+ [
+  "Go to Google Cloud Console → use the same project as Google Drive (or create a new one)",
+  "types/connectors.ts"
+ ],
+ [
+  "Go to Meta for Developers → click \"Create App\" → choose \"Business\" type → fill in your app details and click \"Create App\"",
+  "types/connectors.ts"
+ ],
+ [
+  "Go to notion.so/profile/integrations → click \"+ New integration\". Name it \"OpenJarvis\", select your workspace, and click Submit",
+  "types/connectors.ts"
+ ],
+ [
+  "Go to the Azure Portal → App Registrations → click \"+ New registration\". Name it \"OpenJarvis\", select \"Accounts in this organizational directory only\", and click Register",
+  "types/connectors.ts"
+ ],
+ [
+  "Go to the Dropbox App Console and click \"Create app\". Choose \"Scoped access\" → \"Full Dropbox\" → give it a name (e.g. \"OpenJarvis\") → click \"Create app\"",
+  "types/connectors.ts"
+ ],
+ [
+  "Go to your",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Going back leaves Ollama stopped and does not save this choice.",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Google",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Google Cloud Credentials →",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "GPT-4, GPT-3.5, etc.",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "GPT-5.6 Sol",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "GPU Temp",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "Green dot means API key is configured",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "GRPO Routing Weights",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "Having trouble?",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "HEAVY USE",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Hide advanced",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Hide details",
+  "components/ApprovalBell.tsx"
+ ],
+ [
+  "Hierarchical",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "High",
+  "components/ApprovalBell.tsx"
+ ],
+ [
+  "Hot",
+  "components/Dashboard/EnergyDashboard.tsx"
+ ],
+ [
+  "How the agent breaks complex tasks into steps",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "How the agent remembers context between runs",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "How the agent searches your knowledge base",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "How the agent summarizes long tool outputs",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Hybrid (BM25 + Semantic)",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "ICL examples",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "ID:",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Idle",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "IMAP host (optional; auto-detected)",
+  "types/connectors.ts"
+ ],
+ [
+  "iMessage / SMS",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "iMessage + SMS",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "iMessage + SMS (SendBlue)",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Import",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "In the left sidebar, click \"API Permissions\" → \"Add a permission\" → \"Microsoft Graph\" → \"Delegated permissions\" → search and check \"Mail.Read\" → click \"Add permissions\"",
+  "types/connectors.ts"
+ ],
+ [
+  "In the left sidebar, click \"Certificates & secrets\" → \"New client secret\" → set a description and expiry → click \"Add\" → immediately copy the \"Value\" (you won't see it again)",
+  "types/connectors.ts"
+ ],
+ [
+  "In the left sidebar, click \"Install App\" → click \"Install to Workspace\" → click \"Allow\". After installing, copy the \"User OAuth Token\" that appears (starts with xoxp-, NOT xoxb-)",
+  "types/connectors.ts"
+ ],
+ [
+  "In the left sidebar, click \"OAuth & Permissions\". Scroll down to \"User Token Scopes\" (NOT \"Bot Token Scopes\"). Click \"Add an OAuth Scope\" and add EACH of these scopes one by one:",
+  "types/connectors.ts"
+ ],
+ [
+  "in your config.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "in your SendBlue dashboard and paste it below. On the free tier this is a shared number.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "in your terminal to add more models",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Index",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Index Folder",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Index Size",
+  "components/Desktop/MemoryBrowser.tsx"
+ ],
+ [
+  "Indexed",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Indexed {} items across {} source{}.",
+  "components/setup/IngestDashboard.tsx"
+ ],
+ [
+  "Indexed data will be cleaned up before this source disconnects.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Indexing files...",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Inference Engine",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "Inference source",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Input Saved",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Input Tokens",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Installed",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Instruction",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Intelligence",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Interact",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Interval",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Invalid credentials. Check your API key and secret.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "items — sync in progress, results will improve as more data is indexed.",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Join Leaderboard",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Key",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "Keyboard Shortcuts",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "kJ",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Large",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Last Run",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Last run {}",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Last run:",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Last synced",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Latency",
+  "components/Chat/XRayFooter.tsx"
+ ],
+ [
+  "Later",
+  "components/Desktop/UpdateChecker.tsx"
+ ],
+ [
+  "Launch",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Launch Agent",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Launch the API server to get the full UI in your browser:",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Launch your first agent",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Launching...",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Leaderboard",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "Leaderboard entries send your name, email, and savings to Supabase. Your name and savings are public; email is not displayed.",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Leaderboard sharing enabled · Analytics",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Learning",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Learning Curve",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "leave blank if none",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Let people text your agent from any phone",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Light",
+  "components/Desktop/SettingsPanel.tsx"
+ ],
+ [
+  "Linux (DEB)",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Linux (RPM)",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Live -",
+  "components/Desktop/EnergyDashboard.tsx"
+ ],
+ [
+  "Live telemetry for the on-device inference engine — power draw, token throughput, and cost savings versus cloud APIs.",
+  "pages/DashboardPage.tsx"
+ ],
+ [
+  "LM Studio",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Loading agents...",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Loading available tools…",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Loading learning data...",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "Loading model...",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "Loading sources…",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Loading system status...",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "Loading trace...",
+  "components/Desktop/TraceDebugger.tsx"
+ ],
+ [
+  "Local",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "Local (your hardware)",
+  "components/Dashboard/CostComparison.tsx"
+ ],
+ [
+  "Local Cost",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "local inference",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Local models (Ollama)",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Local Ollama",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Local Utilization",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Logs",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Long-running autonomous agents that can monitor sources, run tasks on a schedule, and message you through connected channels.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Low",
+  "components/ApprovalBell.tsx"
+ ],
+ [
+  "macOS (Apple Silicon)",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "macOS (Intel)",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "macOS Contacts app",
+  "types/connectors.ts"
+ ],
+ [
+  "macOS Messages history",
+  "types/connectors.ts"
+ ],
+ [
+  "macOS Notes app",
+  "types/connectors.ts"
+ ],
+ [
+  "Make sure 2-Step Verification is enabled, then generate a 16-character App Password (Mail / Other / \"OpenJarvis\"). Paste it below — spaces are fine, and use the app password, not your regular Gmail password.",
+  "types/connectors.ts"
+ ],
+ [
+  "Manual",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Manual (run on demand)",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Manually check for a new version right now",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Markdown vault",
+  "types/connectors.ts"
+ ],
+ [
+  "Max context tokens",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Max tokens",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Max Turns",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Mean Reward",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "Medium",
+  "components/ApprovalBell.tsx"
+ ],
+ [
+  "Memory",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Memory backend",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Memory Backend",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Memory Browser",
+  "components/Desktop/MemoryBrowser.tsx"
+ ],
+ [
+  "Memory Extraction",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Memory status",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Message OpenJarvis...",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Messaging Channels",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Microphone access denied",
+  "hooks/useSpeech.ts"
+ ],
+ [
+  "Microphone not supported in this browser",
+  "hooks/useSpeech.ts"
+ ],
+ [
+  "Microsoft email and calendar",
+  "types/connectors.ts"
+ ],
+ [
+  "Min relevance score",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "mJ",
+  "components/Desktop/EnergyDashboard.tsx"
+ ],
+ [
+  "MLX",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Mode",
+  "components/Chat/XRayFooter.tsx"
+ ],
+ [
+  "Mode:",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Model",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "Model changed to {}",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Model Defaults",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Model ID",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Model id served by your endpoint",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Model not available",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Model picker",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Model running",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Models",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Models are downloaded from the Ollama registry",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Models available for local inference",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Models routed through Atlas Cloud",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "MODERATE USE",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Monolithic",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Monthly Projection",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "More actions",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Morning Digest",
+  "components/Chat/AudioPlayer.tsx"
+ ],
+ [
+  "ms",
+  "components/Dashboard/TraceDebugger.tsx"
+ ],
+ [
+  "Multi-provider routing",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Name",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "Name is required",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Navigate",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "New {}",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "New Agent",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "New Agent — Choose Template",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "New chat",
+  "components/Sidebar/Sidebar.tsx"
+ ],
+ [
+  "New Custom Agent",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Next",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "ngrok http 8000",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "No",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "No activity yet. Send a message or run the agent to generate logs.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "No agents found.",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "No agents registered or server not reachable.",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "No agents yet",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "No conversations yet",
+  "components/Sidebar/ConversationList.tsx"
+ ],
+ [
+  "No data leaves your device",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "No energy data available.",
+  "components/Desktop/EnergyDashboard.tsx"
+ ],
+ [
+  "No execution traces yet. Run the agent to generate traces.",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "No learning events yet. Run the agent or trigger learning manually.",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "No log entries yet. Logs appear as you chat, switch models, and interact with the app.",
+  "pages/LogsPage.tsx"
+ ],
+ [
+  "No matching chats",
+  "components/Sidebar/ConversationList.tsx"
+ ],
+ [
+  "No matching memories found",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "No matching models",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "No memory stored yet.",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "No messages yet. Send a message to the agent below.",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "No models available — switch to \"Download\" to get started",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "No models loaded",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "No pending approvals",
+  "components/ApprovalBell.tsx"
+ ],
+ [
+  "No prerequisites — everything is bundled",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "No results found for \"",
+  "components/Desktop/MemoryBrowser.tsx"
+ ],
+ [
+  "No runs yet. Ask a question below to run the agent.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "No savings data available.",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "No tasks assigned.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "No tasks found.",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "No traces available.",
+  "components/Desktop/TraceDebugger.tsx"
+ ],
+ [
+  "No traces yet. Start making queries to see them here.",
+  "components/Dashboard/TraceDebugger.tsx"
+ ],
+ [
+  "none",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "None",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Not available",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Not configured",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Not connected",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "not registered",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Nothing is installed, started, or downloaded until you confirm a choice.",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "OAuth app credentials are already configured. Continue directly to",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Observation Compression",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "of",
+  "components/Desktop/MemoryBrowser.tsx"
+ ],
+ [
+  "OFF",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "Ollama inference engine, API server, and AI model are active.",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "ollama pull <model-name>",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "on",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "ON",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "On the app dashboard, find \"WhatsApp\" and click \"Set up\". Follow the prompts to add a WhatsApp test number. Go to \"API Setup\" and copy the temporary access token",
+  "types/connectors.ts"
+ ],
+ [
+  "One-click install. Bundles Ollama and the server — no setup required.",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Only if your server requires one",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Open",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "Open a terminal and run:",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Open Chat",
+  "components/setup/ReadyScreen.tsx"
+ ],
+ [
+  "Open developer dashboard →",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Open SendBlue signup",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Open the Apple menu () → System Settings → Privacy & Security (in the left sidebar) → scroll down and click \"Full Disk Access\"",
+  "types/connectors.ts"
+ ],
+ [
+  "Open the Granola desktop app. Click the gear icon (Settings) in the bottom-left corner, then click \"API\"",
+  "types/connectors.ts"
+ ],
+ [
+  "OpenAI",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "OpenAI-compatible engine",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "OpenAI-compatible server",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "OpenJarvis",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "OpenJarvis Desktop",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "OpenJarvis will connect only after you submit this form. Ollama will not start or download models.",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "OpenJarvis will start Ollama and may download one model selected for this computer. Model downloads can use several gigabytes of disk space and network data.",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "OPENJARVIS_API_KEY",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "OpenRouter",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "OpenWeather API key",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Opt in to privately share your savings for the chance to win a Mac Mini!",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Opt Out",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Optional analytics sends usage counts, timings, errors, environment metadata, and a random ID to PostHog.",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Or",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Or enter any Ollama model name:",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Other messaging channels",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Output Saved",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Output Tokens",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "Overlay chat",
+  "lib/store.ts"
+ ],
+ [
+  "Overview",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Pages and databases",
+  "types/connectors.ts"
+ ],
+ [
+  "Part of Intelligence Per Watt, a research initiative at Stanford SAIL.",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Paste any text to add directly to your memory store.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Paste it below and click \"Register Webhook\"",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Paste or type content here...",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Paste Text",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Paste text or upload documents",
+  "types/connectors.ts"
+ ],
+ [
+  "Paste text or upload files (.txt, .md, .pdf, .docx, .csv) to add them to your knowledge base.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Paste the Client ID and Client Secret below",
+  "types/connectors.ts"
+ ],
+ [
+  "Paste the Client ID and Client Secret below (you can reuse the same OAuth client as Google Drive if you enabled both APIs in the same project)",
+  "types/connectors.ts"
+ ],
+ [
+  "Paste the Client ID and Client Secret from the app you created above.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Paste the full path below. OpenJarvis will index all .md files in the vault",
+  "types/connectors.ts"
+ ],
+ [
+  "Paste the user token below. Sync indexes every channel, private channel, DM, and group DM you have access to — no need to invite anything to channels",
+  "types/connectors.ts"
+ ],
+ [
+  "Paste your API credentials",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Paste your text here...",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Pause",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Paused",
+  "components/setup/IngestDashboard.tsx"
+ ],
+ [
+  "pending",
+  "components/ApprovalBell.tsx"
+ ],
+ [
+  "People and contact info",
+  "types/connectors.ts"
+ ],
+ [
+  "per month at current rate",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Permanently delete all conversations",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Personal Info",
+  "components/setup/SourcePicker.tsx"
+ ],
+ [
+  "Phased",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Phone Number ID:Access Token",
+  "types/connectors.ts"
+ ],
+ [
+  "Pick a model first (⌘K)",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Pick a model first (⌘K)...",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Playback failed",
+  "lib/tts.ts"
+ ],
+ [
+  "Please choose a different name.",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Please enter a display name with 2–30 characters.",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Please enter a valid email address.",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Please restart the application manually",
+  "components/Desktop/UpdateChecker.tsx"
+ ],
+ [
+  "Policy",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "Policy Config",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "Policy updates",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "Port (optional; 993 or 143)",
+  "types/connectors.ts"
+ ],
+ [
+  "Power",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "Power Draw Over Time (W)",
+  "components/Desktop/EnergyDashboard.tsx"
+ ],
+ [
+  "Privacy details",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Private AI that runs on your hardware. Chat, tools, agents, and energy profiling — no cloud required.",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Project site",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "projected monthly savings",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Pull",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Pulls",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "Python 3.10+ and an inference engine (Ollama recommended)",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Query Class",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "Query: \"",
+  "components/Desktop/TraceDebugger.tsx"
+ ],
+ [
+  "Question:",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Re-enter credentials to reconnect this source.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Re-sync",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Read aloud",
+  "components/Chat/SpeakMessageButton.tsx"
+ ],
+ [
+  "Read every assistant reply aloud as soon as it finishes",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Read message aloud",
+  "components/Chat/SpeakMessageButton.tsx"
+ ],
+ [
+  "Read messages from every channel, private channel, DM, and group DM you have access to",
+  "types/connectors.ts"
+ ],
+ [
+  "Read-only access",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Read-only access · No data leaves your device",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "reads data directly from this device. Grant access if prompted, then connect.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "reads data directly from your Mac. Make sure the app is installed and Full Disk Access is granted to OpenJarvis in System Settings.",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "Ready",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "Recent activity — chat events, model switches, tool calls, and system messages from this session.",
+  "pages/LogsPage.tsx"
+ ],
+ [
+  "recent traces",
+  "components/Desktop/TraceDebugger.tsx"
+ ],
+ [
+  "Reconnect",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Recover",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Recover agent",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Recovery failed",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Register Webhook",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Registered!",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Registering...",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Relaunch now",
+  "components/Desktop/UpdateChecker.tsx"
+ ],
+ [
+  "Relevance",
+  "components/Desktop/MemoryBrowser.tsx"
+ ],
+ [
+  "Remove",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Replace the [bracketed text] with your own values",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Request: \"{}{}\" → {}",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Requests",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "requests ·",
+  "components/Dashboard/CostComparison.tsx"
+ ],
+ [
+  "Required only if the server was started with an API key",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Requires Whisper, Deepgram, or another speech backend",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Research: \"{}{}\"",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Response: {} chars",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "result",
+  "components/Chat/ResearchTimeline.tsx"
+ ],
+ [
+  "Result",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "results",
+  "components/Chat/ResearchTimeline.tsx"
+ ],
+ [
+  "Results to inject",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Resume",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Retrieval Strategy",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Retry",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Retry memory backend status",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Retry Sync",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Retrying...",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Review your configuration",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Routing Accuracy Over Time",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "Run",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Run Learning",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Run models on this computer. Requires a separate confirmation before Ollama starts or a model downloads.",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Run now",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Run Now",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Run started",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Running",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Running...",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Save",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Save and connect",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Save feeds",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Save inference source",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Saved",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Saved by local server",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Saved in secure storage",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Saving",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Saving…",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Savings Dashboard",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Savings vs Cloud Providers*",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Scan a folder and index all supported files into memory.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Schedule",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Schedule Type",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Schedule Value",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Scratchpad",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Search",
+  "components/Chat/ResearchTimeline.tsx"
+ ],
+ [
+  "Search chats...",
+  "components/Sidebar/Sidebar.tsx"
+ ],
+ [
+  "Search installed models...",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Search Memory",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Search memory...",
+  "components/Desktop/MemoryBrowser.tsx"
+ ],
+ [
+  "Search models to download...",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Search: \"{}\"{}",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Searching",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Searching over",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Searching...",
+  "components/Desktop/MemoryBrowser.tsx"
+ ],
+ [
+  "Select",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Select a number for your agent",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Select a trace from the list to inspect its steps.",
+  "components/Desktop/TraceDebugger.tsx"
+ ],
+ [
+  "Select a trace to view details",
+  "components/Dashboard/TraceDebugger.tsx"
+ ],
+ [
+  "Select an agent to view details",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Select folder to index",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Select model",
+  "components/Sidebar/Sidebar.tsx"
+ ],
+ [
+  "Select sources to continue",
+  "components/setup/SourcePicker.tsx"
+ ],
+ [
+  "Send",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Send a message to this agent… (Enter to send)",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Send a test message",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Send message",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Send Test",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "SendBlue API Credentials page",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "SendBlue lets your agent send and receive iMessages and SMS. You need an account and API credentials.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "SendBlue needs a public URL to send incoming messages to your local server. Use ngrok to create a tunnel.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "SendBlue phone number *",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Sends your question as an ad-hoc run — results appear in the trace above.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Sent!",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Server is not responding. The backend may be starting up.",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Server is running",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Server status",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Server type",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Server URL",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Session",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "Session Duration",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Set if backend runs on a different port or host",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Set Up",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Set up a speech backend to use voice input. See the",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Set Up Messaging Channels",
+  "components/Chat/ChatArea.tsx"
+ ],
+ [
+  "Set up webhook (ngrok tunnel)",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Set up webhook to receive texts",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Setting up your assistant...",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Setting up your local AI...",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "Settings",
+  "components/Desktop/SettingsPanel.tsx"
+ ],
+ [
+  "Settings saved",
+  "components/Desktop/SettingsPanel.tsx"
+ ],
+ [
+  "SETUP REQUIRED",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "SGLang",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Share Your Savings",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "Share your savings on the leaderboard for a chance to win a Mac mini.",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Sharing as \"{}\"",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Sharing Savings",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "Shell Exec",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Shift+Enter",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Show {} more fields...",
+  "components/Desktop/TraceDebugger.tsx"
+ ],
+ [
+  "Show a read-aloud button on assistant replies",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Show less",
+  "components/Desktop/TraceDebugger.tsx"
+ ],
+ [
+  "Showing",
+  "components/Desktop/MemoryBrowser.tsx"
+ ],
+ [
+  "Skip",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "Skip for now",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "Small",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Something went wrong",
+  "components/ErrorBoundary.tsx"
+ ],
+ [
+  "Source",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Source {}",
+  "lib/rehype-citations.ts"
+ ],
+ [
+  "Sources",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "Speak replies automatically",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Speech",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Speech synthesis failed",
+  "lib/tts.ts"
+ ],
+ [
+  "Speech-to-Text",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Speed",
+  "components/Chat/XRayFooter.tsx"
+ ],
+ [
+  "Start Chatting",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Start from scratch with full control",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Start from scratch. Pick your own tools, schedule, and behavior.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Start making inference requests to see savings vs cloud providers.",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Start Researching →",
+  "components/setup/IngestDashboard.tsx"
+ ],
+ [
+  "Start Server",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "Starting local setup...",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Starting Ollama...",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "Starting run…",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Starting server...",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "Starting...",
+  "components/setup/IngestDashboard.tsx"
+ ],
+ [
+  "STARTTLS (usually port 143)",
+  "types/connectors.ts"
+ ],
+ [
+  "Status",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "STEP",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "Steps:",
+  "components/Desktop/TraceDebugger.tsx"
+ ],
+ [
+  "Stop",
+  "components/Chat/SpeakMessageButton.tsx"
+ ],
+ [
+  "Stop generating",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Stop generating before deleting this conversation",
+  "components/Sidebar/ConversationList.tsx"
+ ],
+ [
+  "Stop leaderboard updates",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Stop reading message",
+  "components/Chat/SpeakMessageButton.tsx"
+ ],
+ [
+  "Stop Server",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "Stopping setup...",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Store",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Store Text",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Storing...",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Stream error: {}",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "Structured JSON",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Summarize",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Summary Memory",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Switching model...",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Switching to {}...",
+  "components/CommandPalette.tsx"
+ ],
+ [
+  "Sync complete",
+  "components/setup/IngestDashboard.tsx"
+ ],
+ [
+  "Sync Now",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Sync will continue in the background",
+  "components/setup/IngestDashboard.tsx"
+ ],
+ [
+  "Synced — 0 {} found",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Syncing your data...",
+  "components/setup/IngestDashboard.tsx"
+ ],
+ [
+  "Syncing...",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Synthesizing findings",
+  "components/Chat/ResearchTimeline.tsx"
+ ],
+ [
+  "Synthesizing...",
+  "components/Chat/SpeakMessageButton.tsx"
+ ],
+ [
+  "System",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "System Health",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "System Info",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "System Overview",
+  "pages/DashboardPage.tsx"
+ ],
+ [
+  "System panel",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "System Requirements",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "System Settings",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "tab, then set up",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Task Decomposition",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Tasks",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Tavily key for web search tool",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Temperature",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Text",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Text-to-Speech",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "The chat, dashboard, energy profiling, and cost comparison all run locally on your machine.",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "the provider",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Theme",
+  "components/Desktop/SettingsPanel.tsx"
+ ],
+ [
+  "Theme: {} (click for {})",
+  "components/Sidebar/Sidebar.tsx"
+ ],
+ [
+  "Then get started:",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "then paste the Client ID and Client Secret below.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Thermal",
+  "components/Dashboard/EnergyDashboard.tsx"
+ ],
+ [
+  "Thermal Status",
+  "components/Desktop/EnergyDashboard.tsx"
+ ],
+ [
+  "This may take a few minutes depending on your data volume.",
+  "components/setup/IngestDashboard.tsx"
+ ],
+ [
+  "This starts both the API server and Ollama. The web UI is bundled and served automatically at port 8000.",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "This trace contains no steps.",
+  "components/Desktop/TraceDebugger.tsx"
+ ],
+ [
+  "This will be your agent's phone number",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Tip:",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Tip: if you have a single top-level page that contains everything, sharing just that one page will share all nested sub-pages automatically",
+  "types/connectors.ts"
+ ],
+ [
+  "Tip: invite the bot to channels with /invite @OpenJarvis, then re-sync",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Title (optional)",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "TLS (usually port 993)",
+  "types/connectors.ts"
+ ],
+ [
+  "to chat",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "to send ·",
+  "components/Chat/InputArea.tsx"
+ ],
+ [
+  "To share ALL your pages at once: open any top-level page → click \"...\" (top right) → \"Connections\" → \"Add connections\" → search \"OpenJarvis\" → click it. This shares the page and all its sub-pages. Repeat for each top-level page, or share your entire workspace by doing this on every root page",
+  "types/connectors.ts"
+ ],
+ [
+  "to talk to this agent from your phone.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Toggle the switch ON next to each app you added. Close and reopen your terminal (or restart OpenJarvis). Apple Contacts will be detected automatically — no credentials needed",
+  "types/connectors.ts"
+ ],
+ [
+  "Toggle the switch ON next to each app you added. Close and reopen your terminal (or restart OpenJarvis). Apple Notes will be detected automatically — no credentials needed",
+  "types/connectors.ts"
+ ],
+ [
+  "Toggle the switch ON next to each app you added. Close and reopen your terminal (or restart OpenJarvis). iMessage data will be detected automatically — no credentials needed",
+  "types/connectors.ts"
+ ],
+ [
+  "Token budget",
+  "components/Chat/XRayFooter.tsx"
+ ],
+ [
+  "Tokens",
+  "components/Chat/XRayFooter.tsx"
+ ],
+ [
+  "Tokens Processed",
+  "components/Dashboard/EnergyDashboard.tsx"
+ ],
+ [
+  "Tools",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "Total Cost",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Total Energy",
+  "components/Dashboard/EnergyDashboard.tsx"
+ ],
+ [
+  "Total Queries",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Total Requests",
+  "components/Dashboard/EnergyDashboard.tsx"
+ ],
+ [
+  "Total Runs",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Total Tokens",
+  "components/Desktop/EnergyDashboard.tsx"
+ ],
+ [
+  "Total traces",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "Total:",
+  "components/Desktop/TraceDebugger.tsx"
+ ],
+ [
+  "Trace",
+  "components/Desktop/TraceDebugger.tsx"
+ ],
+ [
+  "Trace Debugger",
+  "components/Dashboard/TraceDebugger.tsx"
+ ],
+ [
+  "Traces",
+  "components/Desktop/TraceDebugger.tsx"
+ ],
+ [
+  "Traces are recorded when queries are processed through the system.",
+  "components/Desktop/TraceDebugger.tsx"
+ ],
+ [
+  "Trivial",
+  "components/ApprovalBell.tsx"
+ ],
+ [
+  "Truncate",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Try again",
+  "components/ErrorBoundary.tsx"
+ ],
+ [
+  "Try asking",
+  "components/setup/ReadyScreen.tsx"
+ ],
+ [
+  "Typical Cloud Agent Platform",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "UCB",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "Unknown error",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Unlimited",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Untitled query",
+  "components/Dashboard/TraceDebugger.tsx"
+ ],
+ [
+  "Update available — see banner above",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Update available:",
+  "components/Desktop/UpdateChecker.tsx"
+ ],
+ [
+  "Update error:",
+  "components/Desktop/UpdateChecker.tsx"
+ ],
+ [
+  "Update installed.",
+  "components/Desktop/UpdateChecker.tsx"
+ ],
+ [
+  "Update interval",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "Updates",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Upload & Index",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Upload failed",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Upload Files",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Uploading...",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Uptime",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "Usage analytics are off.",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Usage analytics enabled.",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Use memory context",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Use Ollama and continue",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "var(--color-error)",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Verify & Find Number",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Verifying...",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Version",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "View details",
+  "components/ApprovalBell.tsx"
+ ],
+ [
+  "View Leaderboard",
+  "components/Chat/SystemPanel.tsx"
+ ],
+ [
+  "View Leaderboard ↗",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "vLLM",
+  "components/InferenceSourceSetup.tsx"
+ ],
+ [
+  "Voice",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "vs",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "vs Cloud Agent Platforms",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Waiting for {} authorization... Complete it in the browser window.",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "Waiting for authorization...",
+  "components/setup/SourceConnectFlow.tsx"
+ ],
+ [
+  "Waiting...",
+  "components/SetupScreen.tsx"
+ ],
+ [
+  "Warm",
+  "components/Dashboard/EnergyDashboard.tsx"
+ ],
+ [
+  "Web Search",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "Webhook registered! Incoming texts will be forwarded to your agent.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Webhook:",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Weekly",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Weight",
+  "components/Desktop/LearningCurve.tsx"
+ ],
+ [
+  "What are you looking for?",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "What should this agent do?",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "What the agent is allowed to call. An empty selection makes a chat-only agent.",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "WhatsApp messages (Meta Cloud API)",
+  "types/connectors.ts"
+ ],
+ [
+  "Where the app runs models. Applies after restart.",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Which phone number should SendBlue use? This is the number people will text to reach your agent.",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Which retrieval engine to use",
+  "pages/SettingsPage.tsx"
+ ],
+ [
+  "Win a Mac mini",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Windows (64-bit)",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "Yes",
+  "components/Desktop/AdminPanel.tsx"
+ ],
+ [
+  "You · {}",
+  "components/Desktop/AgentsPanel.tsx"
+ ],
+ [
+  "You're all set!",
+  "components/setup/ReadyScreen.tsx"
+ ],
+ [
+  "Your agent gets its own phone number — text it via iMessage or SMS",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Your agent is now reachable via iMessage / SMS",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Your agent's phone number",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Your API key ID",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "Your API secret key",
+  "pages/AgentsPage.tsx"
+ ],
+ [
+  "YOUR COST",
+  "components/Desktop/SavingsDashboard.tsx"
+ ],
+ [
+  "Your leaderboard name",
+  "components/OptInModal.tsx"
+ ],
+ [
+  "Your local AI is ready. Everything runs on your device — no data leaves your machine.",
+  "pages/GetStartedPage.tsx"
+ ],
+ [
+  "your number",
+  "pages/DataSourcesPage.tsx"
+ ],
+ [
+  "Your personal AI is ready to help.",
+  "components/setup/ReadyScreen.tsx"
+ ],
+ [
+  "Your phone number (+1...)",
+  "pages/AgentsPage.tsx"
+ ]
+]

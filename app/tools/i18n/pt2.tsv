@@ -1,0 +1,465 @@
+500	Logs
+501	Agentes autônomos de longa duração que monitoram fontes, executam tarefas agendadas e enviam mensagens por canais conectados.
+502	Baixa
+503	macOS (Apple Silicon)
+504	macOS (Intel)
+505	App Contatos do macOS
+506	Histórico do Mensagens do macOS
+507	App Notas do macOS
+508	Verifique se a verificação em duas etapas está ativada e gere uma Senha de App de 16 caracteres (Mail / Outro / "OpenJarvis"). Cole abaixo — espaços não são problema — e use a senha de app, não sua senha normal do Gmail.
+509	Manual
+510	Manual (executar sob demanda)
+511	Verificar manualmente agora se há uma nova versão
+512	Cofre Markdown
+513	Máx. de tokens de contexto
+514	Máx. de tokens
+515	Máx. de turnos
+516	Recompensa média
+517	Média
+518	Memória
+519	Backend de memória
+520	Backend de memória
+521	Navegador de memória
+522	Extração de memória
+523	Status da memória
+524	Envie uma mensagem ao OpenJarvis...
+525	Canais de mensagens
+526	Acesso ao microfone negado
+527	Microfone não suportado neste navegador
+528	E-mail e calendário da Microsoft
+529	Pontuação mínima de relevância
+532	Modo
+533	Modo:
+534	Modelo
+535	Modelo alterado para {}
+536	Padrões de modelo
+537	ID do modelo
+538	ID do modelo servido pelo seu endpoint
+539	Modelo indisponível
+540	Seletor de modelo
+541	Modelo em execução
+542	Modelos
+543	Os modelos são baixados do registro do Ollama
+544	Modelos disponíveis para inferência local
+545	Modelos roteados pelo Atlas Cloud
+546	USO MODERADO
+547	Monolítico
+548	Projeção mensal
+549	Mais ações
+550	Resumo matinal
+552	Roteamento multiprovedor
+553	Nome
+554	O nome é obrigatório
+555	Navegar
+556	Novo {}
+557	Novo agente
+558	Novo agente — escolha um modelo
+559	Nova conversa
+560	Novo agente personalizado
+561	Próximo
+563	Não
+564	Nenhuma atividade ainda. Envie uma mensagem ou execute o agente para gerar logs.
+565	Nenhum agente encontrado.
+566	Nenhum agente registrado ou servidor inacessível.
+567	Nenhum agente ainda
+568	Nenhuma conversa ainda
+569	Nenhum dado sai do seu dispositivo
+570	Nenhum dado de energia disponível.
+571	Nenhum rastro de execução ainda. Execute o agente para gerar rastros.
+572	Nenhum evento de aprendizado ainda. Execute o agente ou dispare o aprendizado manualmente.
+573	Nenhum registro ainda. Os logs aparecem conforme você conversa, troca de modelo e interage com o app.
+574	Nenhuma conversa correspondente
+575	Nenhuma memória correspondente encontrada
+576	Nenhum modelo correspondente
+577	Nenhuma memória armazenada ainda.
+578	Nenhuma mensagem ainda. Envie uma mensagem ao agente abaixo.
+579	Nenhum modelo disponível — mude para "Baixar" para começar
+580	Nenhum modelo carregado
+581	Nenhuma aprovação pendente
+582	Sem pré-requisitos — tudo já vem incluído
+583	Nenhum resultado para "
+584	Nenhuma execução ainda. Faça uma pergunta abaixo para executar o agente.
+585	Nenhum dado de economia disponível.
+586	Nenhuma tarefa atribuída.
+587	Nenhuma tarefa encontrada.
+588	Nenhum rastro disponível.
+589	Nenhum rastro ainda. Comece a fazer consultas para vê-los aqui.
+590	nenhum
+591	Nenhum
+592	Indisponível
+593	Não configurado
+594	Não conectado
+595	não registrado
+596	Nada é instalado, iniciado ou baixado até você confirmar uma escolha.
+597	As credenciais do app OAuth já estão configuradas. Continue direto para
+598	Compressão de observações
+599	de
+600	DESLIGADO
+601	O motor de inferência Ollama, o servidor de API e o modelo de IA estão ativos.
+603	ligado
+604	LIGADO
+605	No painel do app, encontre "WhatsApp" e clique em "Set up". Siga as instruções para adicionar um número de teste do WhatsApp. Vá em "API Setup" e copie o token de acesso temporário
+606	Instalação com um clique. Inclui Ollama e servidor — sem configuração.
+607	Somente se o seu servidor exigir
+608	Abrir
+609	Abra um terminal e execute:
+610	Abrir chat
+611	Abrir painel do desenvolvedor →
+612	Abrir cadastro no SendBlue
+613	Abra o menu Apple () → Ajustes do Sistema → Privacidade e Segurança (na barra lateral esquerda) → role para baixo e clique em "Acesso Total ao Disco"
+614	Abra o app desktop do Granola. Clique no ícone de engrenagem (Configurações) no canto inferior esquerdo e depois em "API"
+616	Motor compatível com OpenAI
+617	Servidor compatível com OpenAI
+619	OpenJarvis Desktop
+620	O OpenJarvis só se conectará depois que você enviar este formulário. O Ollama não será iniciado e nenhum modelo será baixado.
+621	O OpenJarvis iniciará o Ollama e poderá baixar um modelo escolhido para este computador. Downloads de modelos podem usar vários gigabytes de disco e de dados de rede.
+624	Chave de API do OpenWeather
+625	Participe para compartilhar sua economia de forma privada e concorrer a um Mac Mini!
+626	Sair
+627	A análise opcional envia contagens de uso, tempos, erros, metadados do ambiente e um ID aleatório ao PostHog.
+628	Ou
+629	Ou informe qualquer nome de modelo do Ollama:
+630	Outros canais de mensagens
+631	Saída economizada
+632	Tokens de saída
+633	Chat flutuante
+634	Visão geral
+635	Páginas e bancos de dados
+636	Parte do Intelligence Per Watt, uma iniciativa de pesquisa do Stanford SAIL.
+637	Cole qualquer texto para adicioná-lo diretamente ao seu repositório de memória.
+638	Cole abaixo e clique em "Registrar webhook"
+639	Cole ou digite o conteúdo aqui...
+640	Colar texto
+641	Cole texto ou envie documentos
+642	Cole texto ou envie arquivos (.txt, .md, .pdf, .docx, .csv) para adicioná-los à sua base de conhecimento.
+643	Cole o Client ID e o Client Secret abaixo
+644	Cole o Client ID e o Client Secret abaixo (você pode reutilizar o mesmo cliente OAuth do Google Drive se ativou as duas APIs no mesmo projeto)
+645	Cole o Client ID e o Client Secret do app que você criou acima.
+646	Cole o caminho completo abaixo. O OpenJarvis indexará todos os arquivos .md do cofre
+647	Cole o token de usuário abaixo. A sincronização indexa todos os canais, canais privados, DMs e DMs em grupo aos quais você tem acesso — não é preciso convidar nada para os canais
+648	Cole suas credenciais de API
+649	Cole seu texto aqui...
+650	Pausar
+651	Pausado
+652	pendente
+653	Pessoas e informações de contato
+654	por mês no ritmo atual
+655	Excluir permanentemente todas as conversas
+656	Informações pessoais
+657	Em fases
+658	Phone Number ID:Access Token
+659	Escolha um modelo primeiro (⌘K)
+660	Escolha um modelo primeiro (⌘K)...
+661	Falha na reprodução
+662	Escolha um nome diferente.
+663	Informe um nome de exibição com 2 a 30 caracteres.
+664	Informe um e-mail válido.
+665	Reinicie o aplicativo manualmente
+666	Política
+667	Configuração de política
+668	Atualizações de política
+669	Porta (opcional; 993 ou 143)
+670	Potência
+671	Consumo de energia ao longo do tempo (W)
+672	Detalhes de privacidade
+673	IA privada que roda no seu hardware. Chat, ferramentas, agentes e perfil de energia — sem precisar de nuvem.
+674	Site do projeto
+675	economia mensal projetada
+676	Baixar (pull)
+677	Downloads (pulls)
+678	Python 3.10+ e um motor de inferência (Ollama recomendado)
+679	Classe da consulta
+680	Consulta: "
+681	Pergunta:
+682	Informe as credenciais novamente para reconectar esta fonte.
+683	Ressincronizar
+684	Ler em voz alta
+685	Ler em voz alta cada resposta do assistente assim que terminar
+686	Ler mensagem em voz alta
+687	Ler mensagens de todos os canais, canais privados, DMs e DMs em grupo aos quais você tem acesso
+688	Acesso somente leitura
+689	Acesso somente leitura · Nenhum dado sai do seu dispositivo
+690	lê os dados diretamente deste dispositivo. Conceda o acesso, se solicitado, e conecte.
+691	lê os dados diretamente do seu Mac. Verifique se o app está instalado e se o Acesso Total ao Disco foi concedido ao OpenJarvis nos Ajustes do Sistema.
+692	Pronto
+693	Atividade recente — eventos de chat, trocas de modelo, chamadas de ferramentas e mensagens do sistema desta sessão.
+694	rastros recentes
+695	Reconectar
+696	Recuperar
+697	Recuperar agente
+698	Falha na recuperação
+699	Registrar webhook
+700	Registrado!
+701	Registrando...
+702	Reiniciar agora
+703	Relevância
+704	Remover
+705	Substitua o [texto entre colchetes] pelos seus próprios valores
+706	Requisição: "{}{}" → {}
+707	Requisições
+708	requisições ·
+709	Necessário somente se o servidor foi iniciado com uma chave de API
+710	Requer Whisper, Deepgram ou outro backend de fala
+711	Pesquisa: "{}{}"
+712	Resposta: {} caracteres
+713	resultado
+714	Resultado
+715	resultados
+716	Resultados a injetar
+717	Retomar
+718	Estratégia de recuperação
+719	Tentar novamente
+720	Tentar novamente o status do backend de memória
+721	Tentar sincronizar novamente
+722	Tentando novamente...
+723	Revise sua configuração
+724	Precisão do roteamento ao longo do tempo
+725	Executar
+726	Executar aprendizado
+727	Execute modelos neste computador. Exige uma confirmação separada antes de o Ollama iniciar ou de um modelo ser baixado.
+728	Executar agora
+729	Executar agora
+730	Execução iniciada
+731	Em execução
+732	Executando...
+733	Salvar
+734	Salvar e conectar
+735	Salvar feeds
+736	Salvar fonte de inferência
+737	Salvo
+738	Salvo pelo servidor local
+739	Salvo em armazenamento seguro
+740	Salvando
+741	Salvando…
+742	Painel de economia
+743	Economia vs. provedores de nuvem*
+744	Examine uma pasta e indexe todos os arquivos suportados na memória.
+745	Agendamento
+746	Tipo de agendamento
+747	Valor do agendamento
+748	Rascunho (scratchpad)
+749	Pesquisar
+750	Pesquisar conversas...
+751	Pesquisar modelos instalados...
+752	Pesquisar na memória
+753	Pesquisar na memória...
+754	Pesquisar modelos para baixar...
+755	Busca: "{}"{}
+756	Pesquisando
+757	Pesquisando em
+758	Pesquisando...
+759	Selecionar
+760	Selecione um número para o seu agente
+761	Selecione um rastro na lista para inspecionar suas etapas.
+762	Selecione um rastro para ver os detalhes
+763	Selecione um agente para ver os detalhes
+764	Selecione a pasta a indexar
+765	Selecionar modelo
+766	Selecione fontes para continuar
+767	Enviar
+768	Envie uma mensagem a este agente… (Enter para enviar)
+769	Enviar uma mensagem de teste
+770	Enviar mensagem
+771	Enviar teste
+772	Página de credenciais de API do SendBlue
+773	O SendBlue permite que seu agente envie e receba iMessages e SMS. Você precisa de uma conta e de credenciais de API.
+774	O SendBlue precisa de uma URL pública para enviar as mensagens recebidas ao seu servidor local. Use o ngrok para criar um túnel.
+775	Número de telefone do SendBlue *
+776	Envia sua pergunta como uma execução avulsa — os resultados aparecem no rastro acima.
+777	Enviado!
+778	O servidor não está respondendo. O backend pode estar iniciando.
+779	O servidor está em execução
+780	Status do servidor
+781	Tipo de servidor
+782	URL do servidor
+783	Sessão
+784	Duração da sessão
+785	Defina se o backend roda em outra porta ou host
+786	Configurar
+787	Configure um backend de fala para usar a entrada de voz. Veja a
+788	Configurar canais de mensagens
+789	Configurar webhook (túnel ngrok)
+790	Configurar webhook para receber mensagens
+791	Configurando seu assistente...
+792	Configurando sua IA local...
+793	Configurações
+794	Configurações salvas
+795	CONFIGURAÇÃO NECESSÁRIA
+797	Compartilhe sua economia
+798	Compartilhe sua economia no ranking e concorra a um Mac mini.
+799	Compartilhando como "{}"
+800	Compartilhando economia
+801	Execução de shell
+802	Shift+Enter
+803	Mostrar mais {} campos...
+804	Mostrar um botão de leitura em voz alta nas respostas do assistente
+805	Mostrar menos
+806	Mostrando
+807	Pular
+808	Pular por enquanto
+809	Pequena
+810	Algo deu errado
+811	Fonte
+812	Fonte {}
+813	Fontes
+814	Falar respostas automaticamente
+815	Fala
+816	Falha na síntese de voz
+817	Fala para texto
+818	Velocidade
+819	Começar a conversar
+820	Comece do zero com controle total
+821	Comece do zero. Escolha suas próprias ferramentas, agendamento e comportamento.
+822	Faça requisições de inferência para ver a economia em relação aos provedores de nuvem.
+823	Começar a pesquisar →
+824	Iniciar servidor
+825	Iniciando a configuração local...
+826	Iniciando o Ollama...
+827	Iniciando execução…
+828	Iniciando servidor...
+829	Iniciando...
+830	STARTTLS (geralmente porta 143)
+831	Status
+832	ETAPA
+833	Etapas:
+834	Parar
+835	Parar geração
+836	Pare a geração antes de excluir esta conversa
+837	Parar atualizações do ranking
+838	Parar leitura da mensagem
+839	Parar servidor
+840	Interrompendo a configuração...
+841	Armazenar
+842	Armazenar texto
+843	Armazenando...
+844	Erro de streaming: {}
+845	JSON estruturado
+846	Resumir
+847	Memória de resumo
+848	Trocando de modelo...
+849	Trocando para {}...
+850	Sincronização concluída
+851	Sincronizar agora
+852	A sincronização continuará em segundo plano
+853	Sincronizado — 0 {} encontrado(s)
+854	Sincronizando seus dados...
+855	Sincronizando...
+856	Sintetizando resultados
+857	Sintetizando...
+858	Sistema
+859	Saúde do sistema
+860	Informações do sistema
+861	Visão geral do sistema
+862	Painel do sistema
+863	Requisitos do sistema
+864	Ajustes do Sistema
+865	aba e depois configure
+866	Decomposição de tarefas
+867	Tarefas
+868	Chave do Tavily para a ferramenta de busca na web
+869	Temperatura
+870	Texto
+871	Texto para fala
+872	O chat, o painel, o perfil de energia e a comparação de custos rodam localmente na sua máquina.
+873	o provedor
+874	Tema
+875	Tema: {} (clique para {})
+876	Depois, comece:
+877	depois cole o Client ID e o Client Secret abaixo.
+878	Térmico
+879	Status térmico
+880	Isso pode levar alguns minutos, dependendo do volume de dados.
+881	Isso inicia o servidor de API e o Ollama. A interface web já vem incluída e é servida automaticamente na porta 8000.
+882	Este rastro não contém etapas.
+883	Este será o número de telefone do seu agente
+884	Dica:
+885	Dica: se você tem uma única página de nível superior que contém tudo, compartilhar só essa página compartilha todas as subpáginas automaticamente
+886	Dica: convide o bot para os canais com /invite @OpenJarvis e depois sincronize novamente
+887	Título (opcional)
+888	TLS (geralmente porta 993)
+889	para conversar
+890	para enviar ·
+891	Para compartilhar TODAS as páginas de uma vez: abra qualquer página de nível superior → clique em "..." (canto superior direito) → "Connections" → "Add connections" → pesquise "OpenJarvis" → clique nele. Isso compartilha a página e todas as subpáginas. Repita para cada página de nível superior ou compartilhe todo o workspace fazendo isso em cada página raiz
+892	para falar com este agente pelo celular.
+893	Ative a chave ao lado de cada app adicionado. Feche e reabra o terminal (ou reinicie o OpenJarvis). Os Contatos da Apple serão detectados automaticamente — sem credenciais
+894	Ative a chave ao lado de cada app adicionado. Feche e reabra o terminal (ou reinicie o OpenJarvis). As Notas da Apple serão detectadas automaticamente — sem credenciais
+895	Ative a chave ao lado de cada app adicionado. Feche e reabra o terminal (ou reinicie o OpenJarvis). Os dados do iMessage serão detectados automaticamente — sem credenciais
+896	Orçamento de tokens
+897	Tokens
+898	Tokens processados
+899	Ferramentas
+900	Custo total
+901	Energia total
+902	Total de consultas
+903	Total de requisições
+904	Total de execuções
+905	Total de tokens
+906	Total de rastros
+907	Total:
+908	Rastro
+909	Depurador de rastros
+910	Rastros
+911	Os rastros são registrados quando as consultas são processadas pelo sistema.
+912	Trivial
+913	Truncar
+914	Tentar novamente
+915	Experimente perguntar
+916	Plataforma de agentes de nuvem típica
+918	Erro desconhecido
+919	Ilimitado
+920	Consulta sem título
+921	Atualização disponível — veja o banner acima
+922	Atualização disponível:
+923	Erro de atualização:
+924	Atualização instalada.
+925	Intervalo de atualização
+926	Atualizações
+927	Enviar e indexar
+928	Falha no envio
+929	Enviar arquivos
+930	Enviando...
+931	Tempo de atividade
+932	As análises de uso estão desativadas.
+933	Análises de uso ativadas.
+934	Usar contexto da memória
+935	Usar o Ollama e continuar
+937	Verificar e encontrar número
+938	Verificando...
+939	Versão
+940	Ver detalhes
+941	Ver ranking
+942	Ver ranking ↗
+944	Voz
+946	vs plataformas de agentes de nuvem
+947	Aguardando autorização de {}... Conclua no navegador.
+948	Aguardando autorização...
+949	Aguardando...
+950	Morno
+951	Busca na web
+952	Webhook registrado! As mensagens recebidas serão encaminhadas ao seu agente.
+953	Webhook:
+954	Semanal
+955	Peso
+956	O que você está procurando?
+957	O que este agente deve fazer?
+958	O que o agente pode chamar. Uma seleção vazia cria um agente somente de chat.
+959	Mensagens do WhatsApp (Meta Cloud API)
+960	Onde o app executa os modelos. Vale após reiniciar.
+961	Qual número de telefone o SendBlue deve usar? É o número para o qual as pessoas enviarão mensagens para falar com seu agente.
+962	Qual mecanismo de recuperação usar
+963	Concorra a um Mac mini
+964	Windows (64 bits)
+965	Sim
+966	Você · {}
+967	Tudo pronto!
+968	Seu agente recebe um número de telefone próprio — envie mensagens por iMessage ou SMS
+969	Seu agente agora pode ser acessado por iMessage / SMS
+970	Número de telefone do seu agente
+971	O ID da sua chave de API
+972	Sua chave secreta de API
+973	SEU CUSTO
+974	Seu nome no ranking
+975	Sua IA local está pronta. Tudo roda no seu dispositivo — nenhum dado sai da sua máquina.
+976	seu número
+977	Sua IA pessoal está pronta para ajudar.
+978	Seu número de telefone (+1...)

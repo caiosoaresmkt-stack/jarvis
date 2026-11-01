@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Atalho: usa a instalação desta pasta. Ex.: ./bin/jarvis ask "Olá"
+source "$(dirname "${BASH_SOURCE[0]}")/../_env.sh"
+exec "$RAIZ/venv/bin/jarvis" "$@"

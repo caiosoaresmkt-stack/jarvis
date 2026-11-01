@@ -1,0 +1,484 @@
+0	— Abstrações de programação para IA no dispositivo.
+1	· Última execução:
+2	· Agendamento:
+3	Ainda indexando…
+4	"Enviar de"
+5	(atualização automática)
+6	(a partir do modelo)
+7	(nunca exibido publicamente)
+8	(Sem instruções — clique em Editar para adicionar)
+9	(não instalado)
+10	(opcional)
+11	(Opcional) Defina o ícone do app: na barra lateral esquerda clique em "Basic Information" → role até "Display Information" → envie o logotipo do OpenJarvis
+12	(recomendado)
+14	Token de API {}
+15	{} itens
+16	{} carregados
+17	{} armazenados localmente
+23	% de correspondência
+24	→ Privacidade e Segurança → Acesso Total ao Disco → ative o OpenJarvis
+25	↺ Recuperar
+26	+ Adicionar
+27	+ Iniciar
+28	+/mês
+30	× Fechar
+32	⏸ Pausar
+33	▶ Retomar
+34	▶ Executar agora
+35	✕ Fechar
+36	1 segundo
+37	1. Crie uma conta em sendblue.co →
+38	10 segundos
+39	2 segundos
+40	2. Acesse a página de Credenciais da API →
+41	30 segundos
+42	5 segundos
+43	60 segundos
+44	Recomendado: 8 GB+ de RAM
+45	Uma janela mostrará seu Client ID e Client Secret. Copie ambos e cole abaixo; depois clique em Conectar — uma janela de login do Google abrirá para concluir a autorização. (Se perder a janela, clique no ícone de download ao lado do seu cliente OAuth para vê-los novamente.)
+46	Sobre
+47	Token de acesso (sl.u...)
+48	Ação:
+49	Ativar número de telefone
+50	Ativo
+51	Ativo — texto
+52	Ativo em
+53	Ativo em {}
+54	Registro de atividades
+55	Rastro de atividade
+56	Adicione uma URL de feed RSS ou Atom por linha.
+57	Adicionar à base de conhecimento
+58	Adicione suas chaves de API para usar modelos na nuvem. As chaves ficam em armazenamento seguro do desktop.
+59	Adicionando...
+60	Painel de administração
+61	Configurações avançadas
+62	Avançado: conectar com Google OAuth
+63	Agente
+64	Agente "{}" criado
+65	Agente "{}" falhou
+66	Agente "{}" falhou: {}
+67	Aprovações do agente
+68	Aprovações do agente
+69	O agente ainda não tem memória armazenada.
+70	O agente está em execução…
+71	O agente está trabalhando…
+72	O gerenciador de agentes não está habilitado. Defina
+73	Nome do agente
+74	Nome do agente *
+75	O nome do agente é obrigatório.
+76	Agente recuperado a partir do checkpoint
+77	Registro de agentes
+78	Registro de agentes (
+79	Agente redefinido para ocioso (nenhum checkpoint disponível)
+80	Estatísticas do agente
+81	Tipo de agente
+82	agent_manager.enabled = true
+83	Agentes
+84	Agentes (
+85	Notas de reunião com IA
+86	Modelo de IA
+87	IA...
+88	todos
+89	Todas as fontes configuradas
+90	Todos os sistemas em execução
+91	Permitir configuração de modelo local?
+92	Já está atualizado
+93	Como alternativa, abra o Finder → navegue até a pasta do seu cofre (ela contém um diretório oculto .obsidian). Clique com o botão direito na pasta → "Copiar como caminho" para obter o caminho completo
+94	Ocorreu um erro inesperado.
+95	Analisando consulta
+96	e copie a Chave de API e o Segredo da API.
+97	Anthropic
+98	Qualquer caixa de e-mail IMAP
+99	Chave de API
+100	Chave de API
+101	Chave de API (opcional)
+102	ID da chave de API *
+103	Chaves de API
+104	As chaves de API são armazenadas localmente e nunca enviadas aos servidores do OpenJarvis
+105	Segredo da API
+106	Chave secreta da API *
+107	Servidor de API
+108	Token de API.
+109	URL da API
+110	Senha de app
+111	Senha de app (xxxx xxxx xxxx xxxx)
+112	Preferências do app — aparência, padrões de modelo, atalhos de teclado e gerenciamento de dados.
+113	Token do app
+114	Aparência
+115	ID do aplicativo (cliente)
+116	Aprovar
+117	estão indexados
+118	Perguntar
+119	Faça uma pergunta de acompanhamento sobre o trabalho deste agente…
+120	Pergunte qualquer coisa sobre seu trabalho e sua vida.
+121	Pergunte qualquer coisa. Sua IA roda localmente — privada, rápida e sempre disponível.
+123	Chave de API do Atlas Cloud
+124	Intervalo de atualização automática
+125	Atualização automática
+126	Injetar automaticamente memórias relevantes nas conversas
+127	Disponível
+128	Disponível ·
+129	Potência média
+130	Consumo médio de energia
+131	aguardando a primeira inferência…
+132	aguardando fluxo de telemetria…
+133	Voltar
+134	Voltar aos agentes
+135	Backend
+136	Backend e voz usados nas respostas faladas
+137	Status do backend
+138	Estatísticas do bandit (arms)
+139	com base nas faixas de preço publicadas das APIs
+140	BM25 (SQLite FTS5)
+141	Token do bot
+142	Procurar
+143	Navegador
+144	App no navegador (auto-hospedado)
+145	Orçamento
+146	Orçamento (US$, opcional)
+147	Orçamento (US$)
+148	Ollama embutido (padrão)
+149	Calculadora
+150	Chamando {}({})
+151	Cancelar
+152	Não foi possível conectar ao servidor
+153	Não foi possível carregar os rastros
+154	Não foi possível alcançar o backend do OpenJarvis
+155	Grafo de causalidade
+156	Alterar
+157	Alterar fonte de inferência
+158	Alterar URL
+160	Chat
+161	Chat pronto — basta digitar abaixo
+162	Conversar com o agente
+163	Verificar acesso
+164	Verificar novas versões do desktop automaticamente a cada 30 minutos
+165	Verificar atualizações
+166	Verificar agora
+167	Verificando endpoint...
+168	Verificando servidor...
+169	Verificando sua configuração salva...
+170	Verificando...
+171	Escolha um modelo ou comece do zero
+172	Escolha a aparência do OpenJarvis
+173	Escolha quais fontes de dados incluir na sua base de conhecimento pessoal.
+174	Escolha sua fonte de inferência
+175	Trechos
+176	Cidade, país (por exemplo: São Paulo,BR)
+178	Modelos Claude
+179	Limpando…
+180	Limpar
+181	Apagar todos os dados
+182	CLI / auto-hospedado
+183	Clique em "+ Iniciar" para criar um.
+184	Clique em "Generate API Key" (ou copie sua chave existente). Cole a chave abaixo
+185	Clique novamente para confirmar
+186	Clique no botão "+" no fim da lista. Navegue até Aplicativos → Utilitários → selecione "Terminal.app" (ou iTerm2/Warp, se você os usa). Se estiver usando o app desktop, adicione também "OpenJarvis.app" em Aplicativos
+187	Clique na aba "Permissions" no topo. Marque "files.metadata.read" e "files.content.read" → clique em "Submit" na parte inferior para salvar
+188	Client ID
+189	Client ID (ex.: 123456-abc.apps.googleusercontent.com)
+190	Client Secret
+191	Valor do Client Secret
+192	Clone e instale (requer Python 3.10+):
+193	Fechar
+194	Fechar painel
+195	Fechar opções de compartilhamento
+196	Armazenamento de arquivos na nuvem
+197	Provedores de nuvem
+198	Cmd+I
+199	Cmd+K
+200	Cmd+N
+201	Interpretador de código
+203	Recolher
+204	Recolher rastro da busca
+205	Linha de comando (macOS / Linux)
+206	Comunicação
+207	Complexidade
+208	Computação
+209	Configuração
+210	Configure as chaves dos provedores de nuvem no ambiente do servidor para usar modelos na nuvem.
+211	Conectar
+212	Conectar {}
+213	Conectar {} fonte{}
+214	Conecte um canal de mensagens para conversar com seu agente pelo celular ou outros dispositivos.
+215	Conectar fontes de dados
+216	Conecte seus dados pessoais para que o assistente pesquise em tudo e configure canais de mensagens para conversar pelo celular.
+217	Conecte-se ao LM Studio, vLLM, SGLang, llama.cpp, MLX ou outro endpoint compatível. O Ollama permanece desligado.
+218	Conecte sua conta {} com um clique.
+219	Conecte suas fontes de dados (Gmail, iMessage, Slack etc.) para obter respostas personalizadas.
+220	Conecte seus dados pessoais na
+221	Conecte seu servidor
+222	Conecte suas fontes
+223	Conectado
+224	Conectado — nenhum dado sincronizado ainda
+225	Conectado — ainda não sincronizado
+226	Conectado ·
+227	{1} fonte{2} conectada{2}: {3}.
+228	Conectando ao seu servidor de IA...
+229	Conectando ao seu servidor...
+230	Conectando...
+231	Conexão
+232	Segurança da conexão
+233	Continuar →
+234	Continuar com {}
+235	Continuar sem compartilhar
+236	Conversas
+237	Frio
+238	Copiado
+239	Copiar
+240	Copiar tudo
+241	Copiar mensagem
+242	Copie a
+243	Copie a "API Key" e o "API Secret" da página de credenciais e cole abaixo.
+244	Copie o "Internal Integration Secret" (começa com ntn_) e cole abaixo
+245	Copie o número de telefone exibido em
+246	Copie seu "Phone Number ID" (mostrado na página API Setup) e o token de acesso. Cole abaixo separados por dois-pontos — ex.: 123456789:EAABx...
+247	Comparação de custos
+248	Comparação de custos*
+249	Não foi possível verificar o status do modelo
+250	Não foi possível carregar as análises. Você pode tentar salvar sua escolha novamente.
+251	Não foi possível salvar sua escolha de análises.
+252	Não foi possível salvar sua escolha de compartilhamento.
+253	Não foi possível iniciar a execução do agente.
+254	Contadores
+255	Temp. da CPU
+256	Criar uma conta SendBlue
+257	Crie as credenciais OAuth: vá em Credentials (link abaixo) → clique em "+ Create Credentials" → escolha "OAuth client ID" → Application type: "Web application". Em "Authorized redirect URIs" adicione o callback deste servidor (ex.: http://localhost:1313/v1/connectors/gdrive/oauth/callback — use o host/porta em que seu servidor OpenJarvis está) → clique em "Create".
+258	Crie seu primeiro agente para começar com o gerenciamento autônomo de tarefas.
+259	Criado
+260	Criado:
+261	Criando...
+262	Credenciais verificadas
+263	Cron
+264	Personalizado (expressão cron)
+265	Personalizado (cron)
+266	Agente personalizado
+267	Servidor personalizado compatível com OpenAI
+268	Diário
+269	Escuro
+270	Painel
+271	Dados
+272	Fontes de dados
+273	Fontes de dados em que seu agente pode pesquisar
+274	Fontes de dados, canais e memória
+275	Pesquisa profunda
+276	Pesquisa profunda disponível agora · os resultados melhoram conforme mais
+277	Erro na pesquisa profunda: {}
+278	Pesquisa profunda: desligada
+279	Pesquisa profunda: ligada
+280	Padrão
+281	Excluir
+282	Excluir agente
+283	Excluir conversa
+284	Excluir modelo
+285	Excluir este agente? Esta ação não pode ser desfeita.
+286	{} excluído
+287	Negar
+288	Implante com Docker Compose para uma instância hospedada sem configuração:
+289	Descrição
+290	App desktop
+291	Detalhes
+292	Dispositivo
+293	Desativar análises
+294	Desativar atualizações automáticas
+295	Desativado
+296	Desconectar
+297	Falha ao desconectar
+298	Falha ao desconectar:
+299	Desconexão pendente — aguardando a sincronização ativa parar.
+300	Desconectado
+301	Desconectado — {}
+302	Desconectando…
+303	Habilidades descobertas
+304	Nome de exibição (público)
+305	Nome de exibição no ranking
+306	Envie mensagem ao seu agente em qualquer workspace do Slack
+307	Docker (nuvem / implantação em VPS)
+308	Docs, Planilhas e arquivos
+309	Documentação
+310	Documentos
+311	Dólares economizados vs.
+312	Não tem o ngrok?
+313	Concluído
+314	Baixar
+315	Falha no download
+316	Falha ao baixar {}: {}
+317	Baixar para
+318	Baixe gratuitamente
+319	Baixado
+320	{} baixado
+321	Baixando atualização...
+322	Baixando...
+323	ex.: Rastreador de pesquisas de IA
+324	ex.: codellama:7b
+325	ex.: LM Studio: http://localhost:1234/v1
+326	ex.: Monitorar os artigos de pesquisa mais recentes sobre raciocínio e cadeia de pensamento em LLMs
+327	ex.: Assistente de pesquisa
+328	Editar
+329	Editar agente
+330	somente eletricidade
+331	E-mail
+332	E-mail (não exibido)
+333	Mensagens e conversas de e-mail
+334	Ativar análises
+335	Ativar análises e participar do sorteio
+336	Ativar somente análises
+337	Ativar aprendizado
+338	Ativar entrada do microfone para ditado por voz
+339	Ative a API do Google Calendar: clique no link abaixo, selecione seu projeto e clique em "Enable"
+340	Ative a API do Google Drive: clique no link abaixo, confirme que seu projeto está selecionado no topo e clique em "Enable"
+341	Ative a People API: clique no link abaixo, selecione seu projeto e clique em "Enable"
+342	Ativado
+343	Endpoint
+344	Energia
+345	Energia / token
+346	Monitor de energia
+347	Monitoramento de energia
+348	Energia por token
+349	Motor
+350	Verifique se um backend de monitoramento de energia (NVIDIA, AMD, Apple ou RAPL) está configurado.
+351	Enter
+352	Digite uma consulta para pesquisar na memória
+353	Participar somente do sorteio
+354	Informe o caminho da sua pasta local
+355	Informe seu
+356	Informe seu número de telefone
+357	Erro
+358	Erro:
+359	Esc
+360	Eventos e reuniões
+361	A cada
+362	A cada N horas
+363	Rastros de execução
+364	Expandir rastro da busca
+365	Exportar
+366	Falha ao conectar
+367	Falha ao criar o agente
+368	Falha ao criar o agente. Tente novamente.
+369	Falha ao carregar {}: {}
+370	Falha ao registrar o webhook. Verifique sua URL do ngrok e as credenciais do SendBlue.
+371	Falha ao registrar. Verifique sua URL do ngrok e tente novamente.
+372	Falha ao remover a chave de API
+373	Falha ao salvar a chave de API
+374	Falha ao enviar a mensagem.
+375	Falha ao iniciar o agente
+376	Leitura de arquivo
+377	Encontre o caminho do cofre: abra o Obsidian → clique no nome do cofre no canto inferior esquerdo → "Gerenciar cofres" → veja o caminho exibido sob o nome do cofre. No macOS costuma ser ~/Documents/MeuCofre ou ~/Library/Mobile Documents/iCloud~md~obsidian/Documents/MeuCofre
+378	Concluir desconexão
+379	Tamanho da fonte
+380	para mais detalhes.
+381	Para desenvolvedores com um projeto Google Cloud existente. Ative a Gmail API e crie um cliente OAuth Desktop em
+382	para nova linha
+383	URL de encaminhamento
+384	URL de encaminhamento (ex.: https://abc123.ngrok.io)
+385	de qualquer celular para falar com seu agente. As respostas chegam como iMessage (balões azuis) quando possível, ou SMS.
+386	GB)
+388	Modelos Gemini
+389	Gere uma senha de app no seu provedor de e-mail (o IMAP deve estar ativado) e informe seu e-mail e a senha de app. Provedores conhecidos são detectados automaticamente; use as configurações opcionais do servidor para os demais.
+390	Gerando com {}...
+391	Obter chaves de API do SendBlue
+392	Começar
+393	Volte à aba "Settings". Em "OAuth 2", encontre "Generated access token" e clique em "Generate". Copie o token e cole abaixo
+394	Vá em "Overview" na barra lateral esquerda e copie o "Application (client) ID". Cole o Client ID e o Client Secret abaixo
+395	Acesse api.slack.com/apps e clique em "Create New App" → escolha "From scratch". Dê o nome "OpenJarvis" e escolha seu workspace
+396	Vá em Credentials → "+ Create Credentials" → "OAuth client ID" → Application type: "Desktop app" → "Create". Copie o Client ID e o Client Secret
+397	Acesse o Google Cloud Console → crie um novo projeto (ou selecione um existente). Dê qualquer nome (ex.: "OpenJarvis")
+398	Acesse o Google Cloud Console → use o mesmo projeto do Google Drive (ou crie um novo)
+399	Acesse o Meta for Developers → clique em "Create App" → escolha o tipo "Business" → preencha os dados do app e clique em "Create App"
+400	Acesse notion.so/profile/integrations → clique em "+ New integration". Nomeie como "OpenJarvis", selecione seu workspace e clique em Submit
+401	Acesse o Azure Portal → App Registrations → clique em "+ New registration". Nomeie como "OpenJarvis", selecione "Accounts in this organizational directory only" e clique em Register
+402	Acesse o Dropbox App Console e clique em "Create app". Escolha "Scoped access" → "Full Dropbox" → dê um nome (ex.: "OpenJarvis") → clique em "Create app"
+403	Acesse sua
+404	Voltar deixa o Ollama parado e não salva esta escolha.
+405	Google
+406	Credenciais do Google Cloud →
+407	GPT-4, GPT-3.5 etc.
+409	Temp. da GPU
+410	O ponto verde indica que a chave de API está configurada
+411	Pesos de roteamento GRPO
+412	Está com problemas?
+413	USO INTENSO
+414	Ocultar avançado
+415	Ocultar detalhes
+416	Hierárquico
+417	Alta
+418	Quente
+419	Como o agente divide tarefas complexas em etapas
+420	Como o agente lembra do contexto entre execuções
+421	Como o agente pesquisa na sua base de conhecimento
+422	Como o agente resume saídas longas de ferramentas
+423	Híbrido (BM25 + semântico)
+424	Exemplos ICL
+425	ID:
+426	Ocioso
+427	Host IMAP (opcional; detectado automaticamente)
+428	iMessage / SMS
+429	iMessage + SMS
+430	iMessage + SMS (SendBlue)
+431	Importar
+432	Na barra lateral esquerda, clique em "API Permissions" → "Add a permission" → "Microsoft Graph" → "Delegated permissions" → pesquise e marque "Mail.Read" → clique em "Add permissions"
+433	Na barra lateral esquerda, clique em "Certificates & secrets" → "New client secret" → defina uma descrição e validade → clique em "Add" → copie imediatamente o "Value" (você não o verá novamente)
+434	Na barra lateral esquerda, clique em "Install App" → clique em "Install to Workspace" → clique em "Allow". Após instalar, copie o "User OAuth Token" exibido (começa com xoxp-, NÃO xoxb-)
+435	Na barra lateral esquerda, clique em "OAuth & Permissions". Role até "User Token Scopes" (NÃO "Bot Token Scopes"). Clique em "Add an OAuth Scope" e adicione CADA um destes escopos, um por um:
+436	na sua configuração.
+437	no painel do SendBlue e cole abaixo. No plano gratuito, este número é compartilhado.
+438	no seu terminal para adicionar mais modelos
+439	Índice
+440	Indexar pasta
+441	Tamanho do índice
+442	Indexado
+443	{} itens indexados em {} fonte{}.
+444	Os dados indexados serão limpos antes de esta fonte ser desconectada.
+445	Indexando arquivos...
+446	Motor de inferência
+447	Fonte de inferência
+448	Entrada economizada
+449	Tokens de entrada
+450	Instalado
+451	Instrução
+452	Inteligência
+453	Interagir
+454	Intervalo
+455	Credenciais inválidas. Verifique sua chave e segredo de API.
+456	itens — sincronização em andamento, os resultados melhoram conforme mais dados são indexados.
+457	Entrar no ranking
+458	Chave
+459	Atalhos de teclado
+461	Grande
+462	Última execução
+463	Última execução {}
+464	Última execução:
+465	Última sincronização
+466	Latência
+467	Mais tarde
+468	Iniciar
+469	Iniciar agente
+470	Inicie o servidor de API para ter a interface completa no navegador:
+471	Inicie seu primeiro agente
+472	Iniciando...
+473	Ranking
+474	As entradas do ranking enviam seu nome, e-mail e economia ao Supabase. Seu nome e sua economia são públicos; o e-mail não é exibido.
+475	Compartilhamento no ranking ativado · Análises
+476	Aprendizado
+477	Curva de aprendizado
+478	deixe em branco se não houver
+479	Permita que pessoas enviem mensagens ao seu agente de qualquer celular
+480	Claro
+481	Linux (DEB)
+482	Linux (RPM)
+483	Ao vivo -
+484	Telemetria ao vivo do motor de inferência no dispositivo — consumo de energia, vazão de tokens e economia de custos em relação às APIs na nuvem.
+486	Carregando agentes...
+487	Carregando ferramentas disponíveis…
+488	Carregando dados de aprendizado...
+489	Carregando modelo...
+490	Carregando fontes…
+491	Carregando status do sistema...
+492	Carregando rastro...
+493	Local
+494	Local (seu hardware)
+495	Custo local
+496	inferência local
+497	Modelos locais (Ollama)
+498	Ollama local
+499	Utilização local
