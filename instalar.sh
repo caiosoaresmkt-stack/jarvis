@@ -30,20 +30,29 @@ if [[ ! -f "$RAIZ/app/src/openjarvis/server/static/index.html" ]]; then
 fi
 
 echo "[4/6] Ollama (motor de modelos locais)"
+# No Mac, o app do Ollama traz o binário dentro do .app
+for o in /Applications/Ollama.app/Contents/Resources /opt/homebrew/bin /usr/local/bin; do
+  [[ -x "$o/ollama" ]] && export PATH="$o:$PATH"
+done
 if ! command -v ollama >/dev/null; then
   if [[ "$(uname -s)" == "Darwin" ]]; then
-    # O install.sh oficial do Ollama é só para Linux; no Mac usamos o Homebrew.
-    if ! command -v brew >/dev/null; then
-      echo "    Instalando o Homebrew (pode pedir sua senha)..."
-      NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" || true
-      for b in /opt/homebrew/bin/brew /usr/local/bin/brew; do [[ -x $b ]] && eval "$($b shellenv)"; done
+    if command -v brew >/dev/null; then brew install ollama || true; fi
+    if ! command -v ollama >/dev/null; then
+      cat >&2 <<'MSG'
+
+    Falta o Ollama (motor que roda os modelos). No Mac:
+      1. Baixe em https://ollama.com/download  (Download for macOS)
+      2. Abra o arquivo, arraste o Ollama para Aplicativos e ABRA o app uma vez
+         (ícone de lhama na barra de menu).
+      3. Rode de novo:  ./instalar.sh
+MSG
+      exit 1
     fi
-    command -v brew >/dev/null && brew install ollama || true
   else
     echo "    Ollama não encontrado. Instalando (pede sudo): https://ollama.com/install.sh"
     curl -fsSL https://ollama.com/install.sh | sh || true
+    command -v ollama >/dev/null || { echo "    Falhou — instale manualmente em https://ollama.com e rode de novo." >&2; exit 1; }
   fi
-  command -v ollama >/dev/null || { echo "    Não consegui instalar o Ollama. Baixe em https://ollama.com/download, abra uma vez e rode ./instalar.sh de novo." >&2; exit 1; }
 fi
 if command -v ollama >/dev/null && ! pgrep -f "ollama serve" >/dev/null; then
   nohup ollama serve >"$RAIZ/dados/ollama.log" 2>&1 & sleep 3
